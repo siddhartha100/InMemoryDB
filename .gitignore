@@ -1,0 +1,40 @@
+# Compiled class file
+*.class
+
+# Log file
+/*.log
+/logs/
+/run/
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# other files
+/target/
+/.project
+/.classpath
+/.settings/
+**/build/
+**/testing/
+**/target/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+
+
+
+
+
+
+
